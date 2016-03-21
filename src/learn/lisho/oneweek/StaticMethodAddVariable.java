@@ -2,7 +2,8 @@ package learn.lisho.oneweek;
 
 /**
  * Created by lisho on 16/3/19.
- * 用于静态方法调用测试
+ * 说明静态变量、实例变量一般特性
+ * 说明静态方法、实例方法一般特性
  */
 public class StaticMethodAddVariable {
 
